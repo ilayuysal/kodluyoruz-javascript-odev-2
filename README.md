@@ -1,0 +1,1 @@
+Kodluyoruz *Javascript* Ödev-2 
